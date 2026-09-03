@@ -61,7 +61,7 @@ export const modelData: ModelData = {
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
-  instagram: "",
+  instagram: "kartikkunday2020",
 
   ecommerce: [
   /**{
@@ -236,20 +236,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
+  {
     title: "Kartik KundayModel Shoot",
-    category: "Fashion",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/KARTIK KUNDAY (1).mp4",
     type: "mp4",
   },
   {
     title: "Kartik KundayModel Shoot",
-    category: "Fashion",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/KARTIK KUNDAY.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
